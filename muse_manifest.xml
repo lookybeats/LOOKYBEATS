@@ -1,7 +1,11 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://lookybeats.ml" resolutions="1x" timestamp="1504245008965">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.lookybeats.com" resolutions="1x" timestamp="1504261260306">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="248525818" ref="index"/>
+    <file name="index.css" crc="4240394228" ref="index"/>
+    <file name="iefonts_index.css" crc="502884634" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="pack-de-recursos.html" crc="447286049" seo="true" mt="1504259769000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -9,12 +13,69 @@
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="278381782" ref="index"/>
     <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
     <file name="jquery.musemenu.js" crc="4286030528" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
     <file name="require.js" crc="3861931657" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u623-4.png" crc="412026877" ref="index"/>
+    <file name="favicon.ico" crc="4278647014" ref="index"/>
+    <file name="70172.jpg" crc="4245540359" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u623-4.png" crc="4158061680" ref="index"/>
+    <file name="4-crop-u1214.jpg" crc="96885073" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u735-4.png" crc="4111929365" ref="index"/>
+    <file name="teecy.jpg" crc="176447903" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="lover one.jpg" crc="3835040454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mi punto.jpg" crc="219311951" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hgy.jpg" crc="3879373889" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16830925_178148449346326_5118166194644819134_n.jpg" crc="157731159" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gf.jpg" crc="170788413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="teecy366x366.jpg" crc="3795465765" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lover one366x366.jpg" crc="4181195329" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mi punto366x366.jpg" crc="4293057154" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hgy366x366.jpg" crc="137025023" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16830925_178148449346326_5118166194644819134_n366x367.jpg" crc="3956139647" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gf366x367.jpg" crc="151743498" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="4-u557-3-fr.png" crc="4292672430" ref="index"/>
+    <file name="u1227-4.png" crc="4193715516" ref="index"/>
+    <file name="capturav.jpg" crc="10932147" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3890523610" seo="true" mt="1504231961959" redirect="true"/>
+  <file name="index.html" crc="3947047448" seo="true" mt="1504261086943" redirect="true"/>
 </manifest>
